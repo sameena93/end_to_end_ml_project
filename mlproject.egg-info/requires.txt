@@ -1,7 +1,0 @@
-seaborn
-pandas
-seaborn
-scikit-learn
-matplotlib
-catboost
-xgboost
