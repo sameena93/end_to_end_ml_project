@@ -18,7 +18,7 @@ This repository contains an end-to-end project for predicting student performanc
 ### HeatMap
 ![HeatMap](https://github.com/sameena93/student_performance/blob/main/static/Heatmap.png)
 
-###Regression Plot
+### Regression Plot
 ![RegressionPlot](https://github.com/sameena93/student_performance/blob/main/static/regression_plot.png)
 
 ### Scatter Plot
