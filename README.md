@@ -25,11 +25,11 @@ To set up the project, follow these steps:
 
 1. Open a terminal and clone the repository:
    ```bash
-   [git clone https://github.com/sameena93/student_performance.git]
+   git clone https://github.com/sameena93/student_performance.git
 
 2. Navigate into the project directory:
-```bash
-[cd student_performance.git]
+   ```bash
+   cd student_performance.git
 
 3. Using Conda
    ```bash
