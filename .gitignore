@@ -2,3 +2,5 @@
 venv/
 ENV/
 artifact/
+logs/
+mlptoject.egg-info/
