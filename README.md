@@ -13,7 +13,7 @@ This repository contains an end-to-end project for predicting student performanc
 # Data Visualization
 
 ## HeatMap
-[HeatMap](https://github.com/sameena93/student_performance/blob/main/static/Heatmap.png)
+![HeatMap](https://github.com/sameena93/student_performance/blob/main/static/Heatmap.png)
 
 ## **Getting Started**
 
