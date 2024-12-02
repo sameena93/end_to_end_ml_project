@@ -1,6 +1,5 @@
 .env
 venv/
 ENV/
-artifact/
 logs/
-mlptoject.egg-info/
+.mlptoject.egg-info/
