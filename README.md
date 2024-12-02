@@ -10,6 +10,11 @@ This repository contains an end-to-end project for predicting student performanc
 - **Web Application:** An intuitive interface where users can upload data and get predictions.
 - **Deployment:** Dockerized and deployed on AWS EC2 for real-world usage.
 
+# Data Visualization
+
+## HeatMap
+[HeatMap](https://github.com/sameena93/student_performance/blob/main/static/Heatmap.png)
+
 ## **Getting Started**
 
 ### **Prerequisites**  
