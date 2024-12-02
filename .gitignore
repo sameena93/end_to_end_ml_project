@@ -2,4 +2,4 @@
 venv/
 ENV/
 logs/
-.mlptoject.egg-info/
+.mlproject.egg-info/
