@@ -41,6 +41,6 @@ To set up the project, follow these steps:
    ```bash
    pip install -r requirements.txt
 
-5.Run the Application:
+5. Run the Application:
    ```bash
    python app.py
