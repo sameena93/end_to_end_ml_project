@@ -2,7 +2,11 @@
 # Split the data into the train and test
 # data transformation 
 import sys
-sys.path.insert(0, '../src')
+sys.path.insert(0, '/Users/moham/DataScience/Interview_preparation/complete_ML_MLOP_material/End_end_ML_deployment/github_project/src')
+import sys
+import os
+# sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../../..")))
+# sys.path.insert(0, '/home/programmer/Desktop/general/End to end 2/src')
 import os
 
 
@@ -13,6 +17,10 @@ import pandas as pd
 
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
+import src.components.data_transformation
+print(src.components.data_transformation.__file__)
+
+
 from src.components.data_transformation import DataTransformation
 from src.components.data_transformation import DataTransformationConfig
 

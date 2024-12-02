@@ -11,3 +11,4 @@ Requires-Dist: matplotlib
 Requires-Dist: catboost
 Requires-Dist: xgboost
 Requires-Dist: dill
+Requires-Dist: flask

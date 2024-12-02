@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(0, '../src')
+sys.path.insert(0, '/Users/moham/DataScience/Interview_preparation/complete_ML_MLOP_material/End_end_ML_deployment/github_project/src')
 
 import os
 from dataclasses import dataclass
