@@ -34,10 +34,9 @@ To set up the project, follow these steps:
 3. Using Conda:
    ```bash
    conda create -p venv python=3.11 -y
+   conda activate ./venv
 
-  ```bash
-  conda activate ./venv
-
+  
 4. Install Dependencies:
    ```bash
    pip install -r requirements.txt
