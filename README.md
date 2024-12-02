@@ -8,7 +8,7 @@ This repository contains an end-to-end project for predicting student performanc
 - **Data Analysis:** Explore the data to uncover patterns and correlations.
 - **Machine Learning Models:** Use regression techniques to predict student grades with high accuracy.
 - **Web Application:** An intuitive interface where users can upload data and get predictions.
-- **Deployment:* Dockerized and deployed on AWS EC2 for real-world usage.
+- **Deployment:** Dockerized and deployed on AWS EC2 for real-world usage.
 
 ## Project Workflow
 
