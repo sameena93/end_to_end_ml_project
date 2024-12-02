@@ -10,6 +10,19 @@ This repository contains an end-to-end project for predicting student performanc
 - **Web Application:** An intuitive interface where users can upload data and get predictions.
 - **Deployment:** Dockerized and deployed on AWS EC2 for real-world usage.
 
-## Project Workflow
+## **Getting Started**
 
-![Project Workflow](static/project_workflow.png)
+### **Prerequisites**  
+Ensure you have the following installed:
+- **Python 3.8 or higher**
+- **Git**
+- **pip** or **conda** (for dependency management)
+
+---
+
+### **Clone the Repository**  
+To set up the project, follow these steps:
+
+1. Open a terminal and clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repository-name.git
