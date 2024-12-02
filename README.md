@@ -12,8 +12,19 @@ This repository contains an end-to-end project for predicting student performanc
 
 # Data Visualization
 
-## HeatMap
-![HeatMap](https://github.com/sameena93/student_performance/blob/main/static/Heatmap.png)
+# Data Visualization
+
+### Hist Plot
+![Histplot](https://github.com/sameena93/student_performance/blob/main/static/hist_plot.png)
+### HeatMap
+[HeatMap](https://github.com/sameena93/student_performance/blob/main/static/Heatmap.png)
+
+### 2. Scatter Plot
+![Scatterplot](https://github.com/sameena93/student_performance/blob/main/static/scatterplot.png)
+
+### Parent's Education Distribution Plot
+![Pie Chart](https://github.com/sameena93/student_performance/blob/main/static/parent_education_distribution.png)
+
 
 ## **Getting Started**
 
